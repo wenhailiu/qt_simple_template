@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\wenhai\Documents\vscode_workspace\qt_simple_template\build\Application_autogen\mocs_compilation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wenhai\Documents\vscode_workspace\qt_simple_template\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wenhai\Documents\vscode_workspace\qt_simple_template\mainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wenhai\Documents\vscode_workspace\qt_simple_template\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{60B498BB-AC0A-3FC3-88C7-BDD958B86E0C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
